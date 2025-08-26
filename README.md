@@ -1,4 +1,31 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 현 프로젝트 분석
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+1. 명확한 목적
+- 사이드 프로젝트 급으로 간단 명료 해야 하므로, 주제를 잘 선정해야 한다.
+- 지금 대학생 커뮤니티 클론 코딩으로는 너무 뻔하고, 수익성과 지속 가능성 마저 안보인다. 단순 기술 공부에 불과한다.
+
+<br>
+
+2. 작고 빠른 검증
+- 검증을 하려면 간단하면서도 명확한 프로젝트 이어야 한다.
+- 하지만 다음을 도전하려면 작고 빠른 검증이 어려움..
+    - CI/CD 파이프라인 및 배포
+        - EC2, RDS, S3
+        - Github Action & Docker 활용한 파이프라인 형성 및 무중단 자동 배포
+    - Github 활용!
+        - Issue 및 Issue 전용 브랜치
+        - Action!
+    - 기술적으로 도전하고 싶은 것,
+        - FCM 활용, 로그인 토큰 관리, 알림 서비스? Spring AI, Spring Batch, Spring Cloud!
+
+<br>
+
+3. 지속가능성
+- 지속 가능성이 충분하려면 다음과 같은 고민을 해볼만 하다.
+    - 수익 창출: 해당 프로젝트가 작은 수익을 낼 수 있는가? (광고는 제외하고 생각해보자.)
+    - 주제 선정: 프로젝트 주제가 사용자를 모집할 수 있을 만큼 창의적이고, 실제 니즈 바탕의 주제인가?
+    - 개발 기간: 말 그대로 사이드 프로젝트로 학기 중 기간임을 고려하여 빠른 개발이 가능가?
+
+지금은 너무 기술 공부를 하고 싶은 생각에 섣부른 주제 선정을 한 것 같다. 
+
+8월 까지는 위 사항들을 고려해보고 프로젝트 주제 재선정을 해보겠다.
